@@ -1,0 +1,44 @@
+.box{
+    color:white;
+    font-size: 108px;
+    text-align: center;
+    text-shadow: 4px 4px 0 rgba(0, 0,0, 0.1);
+    padding: 10px;
+}
+.box1 {
+    background-color: aqua;
+}
+.box2 {
+    background-color: antiquewhite;
+}
+.box3 {
+    background-color: aquamarine;
+}
+.box4{
+    background-color: blue;
+}
+.box5 {
+    background-color: blueviolet;
+}
+.box6 {
+    background-color: bisque;
+}
+.box7 {
+    background-color: beige;
+}
+.box8 {
+    background-color: aliceblue;
+}
+.box9 {
+    background-color: palevioletred;
+}
+.box10 {
+    background-color: plum;
+}
+
+.container{
+    display: flex;
+    border: 10px solid goldenrod;
+    height: 100vh;
+    
+}
